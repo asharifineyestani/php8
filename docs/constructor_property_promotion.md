@@ -1,6 +1,6 @@
 
 # Constructor Property Promotion
-Constructor Property Promotion یک فیچر جدید است که به PHP 8 اضافه شده است. به وسیله ی آن می توان property های کلاس را از طریق متد constructor ایجاد کرد. با این کار دیگر نیازی به تایپ نام property در ابتدای کلاس نیست. حتی می توانید Access Modifier ها  ماننده Public , Protected و Private را هم همانجا به هر Property اضافه کنید.
+<div dir="rtl">Constructor Property Promotion یک فیچر جدید است که به PHP 8 اضافه شده است. به وسیله ی آن می توان property های کلاس را از طریق متد constructor ایجاد کرد. با این کار دیگر نیازی به تایپ نام property در ابتدای کلاس نیست. حتی می توانید Access Modifier ها  ماننده Public , Protected و Private را هم همانجا به هر Property اضافه کنید.</div>
 
 به جای نوشتن کدهای زیر
 ```php
